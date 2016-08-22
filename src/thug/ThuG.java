@@ -19,5 +19,6 @@ public class ThuG {
     public static void main(String[] args) throws UnsupportedLookAndFeelException {
         javax.swing.UIManager.setLookAndFeel(new com.sun.java.swing.plaf.windows.WindowsLookAndFeel());
         new homeWin().setVisible(true);
+        int a;
     }
 }
